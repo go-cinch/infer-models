@@ -8,8 +8,8 @@ Preprocess:
 - interp: 2
   keep_ratio: false
   target_size:
-  - 640
-  - 640
+  - 1920
+  - 1920
   type: Resize
 - type: Permute
 label_list:
